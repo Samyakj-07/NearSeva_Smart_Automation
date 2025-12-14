@@ -13,6 +13,7 @@
     --text-light: #F9FAFB;
     --radius-md: 16px;
     --radius-lg: 24px;
+    --bg-gradient: linear-gradient(135deg, #e6f0ff, #f0e9ff);
     --font-main: 'Inter', sans-serif
 }
 
