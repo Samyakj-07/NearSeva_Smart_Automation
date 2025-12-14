@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NearSeva</string>
+    <string name="title_activity_main">NearSeva</string>
+    <string name="package_name">com.nearseva.app</string>
+    <string name="custom_url_scheme">com.nearseva.app</string>
+</resources>

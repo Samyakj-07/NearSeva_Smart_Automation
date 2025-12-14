@@ -1,0 +1,11 @@
+{
+  "appId": "com.nearseva.app",
+  "appName": "NearSeva",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "allowNavigation": [
+      "*"
+    ]
+  }
+}
